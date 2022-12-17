@@ -15,11 +15,10 @@ int main()
 	messages.emplace_back("To", "strFrom2", "strText3");
 	
 	cout << messages[3] << endl;
-	
+	/*
 	int x = 4;
 	int y = 5;
 	cout << x + y << endl;
-	
+	*/
 	return 0;
-
 }
