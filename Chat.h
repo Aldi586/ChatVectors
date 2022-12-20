@@ -8,13 +8,15 @@
 class Chat
 {
 private:
-	std::vector<User> _users;
-	std::vector <Message> _messages;
+	//std::vector<User> _users;
+	//std::vector <Message> _messages;
 
 	
 
 public:
 	
+	
+
 	
 	
 	/*

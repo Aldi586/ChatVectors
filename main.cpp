@@ -11,7 +11,12 @@ using namespace std;
 
 int main()
 {
-	vectorUser();
+	User us;
+	us.addUser();
+	us.addUser();
+	us.showUsers();
+
+	
 /*
 	vector <User> users;
 	string lgn;
