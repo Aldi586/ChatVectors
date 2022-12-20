@@ -2,9 +2,7 @@
 #include <string>
 #include <iostream>
 
-
 class Message
-
 {
 private:
 
